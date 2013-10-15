@@ -8,6 +8,8 @@ can easily obtain data from a "corpus" of labeled objects
 for training or testing.  And you can exchange one algorithm
 for another without modifying your code (much).
 
+((minor change to test auto-merge))
+
 Documentation and Download
 ------------
 Please see the [Wiki pages](https://github.com/NPSVisionLab/CVAC/wiki) for complete instructions.
